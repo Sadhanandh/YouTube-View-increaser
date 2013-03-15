@@ -1,0 +1,27 @@
+This is an app to cheat youtube and increase the views of your video.
+
+1) Uses I/P rotation
+2) Uses User-Agent Switching.
+3) Provides Random Delay.
+4) Can support multiple search terms
+5) Emulates human behavior - Clicks some random video on the run.
+
+
+
+* Browser Version.
+-> this needs an Xwindow.
+
+	Usage - >
+
+	.change the youtubeconfig.ini
+	.Add more settings in the support/UAx firefox profile
+	.start as $ ./youtube
+
+
+Requires:
+
+	selinium webkit
+	Tor 
+
+
+Shipped it as an exe with all required packeges.
